@@ -1,1 +1,9 @@
 *~
+.*.cmd
+.tmp_versions
+.cache.mk
+Module.symvers
+*.o
+*.ko
+*.mod.*
+modules.order
